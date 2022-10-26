@@ -1,2 +1,1 @@
-This project converts an image from one scale to another scale.
-For example, gray scale to binary scale.
+This project converts an image from RGB scale to GRAY scale.
